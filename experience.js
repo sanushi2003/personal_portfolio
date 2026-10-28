@@ -52,7 +52,7 @@ var EXPERIENCE = [
     link: "https://www.linkedin.com/company/cssauok/posts/?feedView=all",
     link: "https://codesplash.cssa.lk/"
   },
-  {
+  /*{
     role: "Member - Paper Marking Panel - Pure Mathematics",
     organization: "Chandana Dahanayake class in Apeiro Education",
     type: "Work Experience",
@@ -69,7 +69,7 @@ var EXPERIENCE = [
       { src: "images/experience/a3.jpeg", caption: "class room" },
     ],
     
-  },
+  },*/
 ];
 
 /* ============================== RENDERING ============================== */

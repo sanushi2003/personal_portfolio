@@ -10,8 +10,8 @@
 var CERTIFICATES = [
   
   { name: "Python for Beginners",   issuer: "University of Moratuwa | Credential ID : YgoYAsUAJe |", date: "02 Apr 2026", link: "https://open.uom.lk/lms/mod/customcert/verify_certificate.php", image: "images/certificate/python.png" },
-  { name: "Introduction to Cybersecurity", issuer: "Cisco Networking Academ | Network Vulnerabilities | Cyber Best Practices | Privacy Data Confidentiality | Cybersecurity | Threat Detection", date: "14 Sep 2026", image: "images/certificate/cybersecurity.png" },
-  { name: "Introduction to Artificial Intelligence ", issuer: "Simplilearn SkillUp Course | Certificate code : 10731916 |", date: "14 Sep 2026", image: "images/certificate/Artificial Intelligence.png" },
+  //{ name: "Introduction to Cybersecurity", issuer: "Cisco Networking Academ | Network Vulnerabilities | Cyber Best Practices | Privacy Data Confidentiality | Cybersecurity | Threat Detection", date: "14 Sep 2026", image: "images/certificate/cybersecurity.png" },
+  //{ name: "Introduction to Artificial Intelligence ", issuer: "Simplilearn SkillUp Course | Certificate code : 10731916 |", date: "14 Sep 2026", image: "images/certificate/Artificial Intelligence.png" },
   { name: "Linux Essentials Certification ", issuer: "Cisco Networking Academy", date: "09 May 2026", image: "images/certificate/linux.png" },
 ];
 
