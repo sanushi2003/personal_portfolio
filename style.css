@@ -1,41 +1,5 @@
 /* Layout: slim top bar with name and page links, then one focused page of content per section. */
-
 :root {
-  --bg: #f3f5f8;
-  --surface: #ffffff;
-  --fg: #14181f;
-  --muted: #566070;
-  --line: #d9dee6;
-  --accent: #8c1d40;
-  --accent-ink: #ffffff;
-  --ph-a: #e8ecf2;
-  --ph-b: #dde2ea;
-  --scrim: rgba(6, 8, 12, .94);
-  --scrim-fg: #f2f4f8;
-  --icon-bg: #f2f4f8;
-  --icon-fg: #14181f;
-  --font-display: "Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
-  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
-}
-
-@media (prefers-color-scheme: dark) {
-
-  :root:not([data-theme="light"]) {
-    --bg: #0f1319;
-    --surface: #161c25;
-    --fg: #e8ecf2;
-    --muted: #9aa5b5;
-    --line: #29323e;
-    --accent: #e8829d;
-    --accent-ink: #0f1319;
-    --ph-a: #1a212b;
-    --ph-b: #202834;
-    color-scheme: dark;
-  }
-}
-
-:root[data-theme="dark"] {
   --bg: #0f1319;
   --surface: #161c25;
   --fg: #e8ecf2;
@@ -45,8 +9,16 @@
   --accent-ink: #0f1319;
   --ph-a: #1a212b;
   --ph-b: #202834;
+  --scrim: rgba(6, 8, 12, .94);
+  --scrim-fg: #f2f4f8;
+  --icon-bg: #f2f4f8;
+  --icon-fg: #14181f;
+  --font-display: "Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --font-body: "IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
   color-scheme: dark;
 }
+
 
 * {
   box-sizing: border-box;
