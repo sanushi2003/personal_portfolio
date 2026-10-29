@@ -14,7 +14,7 @@ var PROJECTS = [
     tech: ["HTML/CSS", "JavaScript", "PHP", "VS code", "phpMyAdmin", "XAMPP", "MySQL"],
     github: "https://github.com/sanushi2003/fctCare_eChannelling_System",
     demo: "http://localhost/fctCare_eChannelling_System/index.php",
-    image: "images/projects/p5.mp4"
+    image: "images/projects/p5.png"
   },
   {
     name: "Project name two",
